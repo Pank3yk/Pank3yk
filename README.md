@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pank3yk
 - 👀 I’m interested in working out :p 
-- 🌱 I’m currently learning java, kotlin, mysql 
+- 🌱 I’m currently learning python, sql, excel
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me IG:  @jaaaaaafaaaar
 - 😄 Pronouns: ??
